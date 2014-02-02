@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">settings</string>
+    <string name="website_link">http://armyapp.tw</string>
+    <string name="contact_us">聯絡我們</string>
+    <string name="app_name">國軍互助回報App</string>
+    <string name="at_home">已經\n到家</string>
+    <string name="report">定時\n回報</string>
+    <string name="food_des">餐敘\n回報</string>
+    <string name="pre_back">準備\n返營</string>
+    <string name="edit_member">編輯組員</string>
+    <string name="settings">設定</string>
+    <string name="add_new_member">新增組員</string>
+    <string name="send">Send</string>
+    <string name="send_leader">寄給組長</string>
+    <string name="send_all">寄給所有組員</string>
+    <string name="cancel">取消</string>
+    <string name="finish">完成編輯</string>
+    <string name="back">返回</string>
+    <string name="save">儲存</string>
+    <string name="leader">組長</string>
+    <string name="member">組員</string>
+    <string name="name">名字(可不填)</string>
+    <string name="phone">電話</string>
+    <string name="from_contact">從通訊錄中挑選</string>
+    <string name="plus">+</string>
+    <string name="edit">V</string>
+    <string name="delete">X</string>
+    <string name="nickname">稱呼:</string>
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background" >
+
+    <EditText
+        android:id="@+id/msgContent"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/btnSendLeader"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:padding="20dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/bg_sand"
+        android:alpha="0.8"
+        android:text="@string/send_leader"
+        android:textSize="24sp"
+        android:textColor="@color/black" />
+    
+    <Button
+        android:id="@+id/btnSendAll"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:padding="20dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/bg_sand"
+        android:alpha="0.8"
+        android:text="@string/send_all"
+        android:textSize="24sp"
+        android:textColor="@color/black" />
+    
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:padding="20dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/bg_sand"
+        android:alpha="0.8"
+        android:text="@string/cancel"
+        android:textSize="24sp"
+        android:textColor="@color/black" />
+    
+</LinearLayout>
