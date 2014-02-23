@@ -18,7 +18,6 @@
     <string name="cancel">取消</string>
     <string name="finish">完成編輯</string>
     <string name="back">返回</string>
-    <string name="save">儲存</string>
     <string name="leader">組長</string>
     <string name="member">組員</string>
     <string name="name">名字(可不填)</string>
@@ -28,5 +27,12 @@
     <string name="edit">V</string>
     <string name="delete">X</string>
     <string name="nickname">稱呼:</string>
+    <string name="timer_settings">定時回報設定</string>
+    <string name="set_finish">設定完成</string>
+    <string name="add">新增</string>
+    <string name="on">開啓</string>
+    <string name="off">關閉</string>
+    <string name="receiver">收件者</string>
+    <string name="time">傳送\n時間</string>
 
 </resources>
